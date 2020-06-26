@@ -1,0 +1,6 @@
+1.- Ejecutar el archivo setup para poder instalar la aplicacion 
+en la computadora.
+2.- Ejecutar ELaip Aplication 
+3.. Una vez ejecutado Se mostrara un login para poder accesar se escribira
+ el nombre del usuario registrado anteriormente
+4.- Interfazces graficas.
